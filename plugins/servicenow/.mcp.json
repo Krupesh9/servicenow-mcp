@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "servicenow": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "${CLAUDE_PLUGIN_ROOT}/../..",
+        "run",
+        "python",
+        "-m",
+        "servicenow_mcp.cli"
+      ]
+    }
+  }
+}

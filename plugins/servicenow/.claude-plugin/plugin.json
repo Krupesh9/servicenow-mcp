@@ -1,0 +1,15 @@
+{
+  "name": "servicenow",
+  "version": "0.1.0",
+  "description": "ServiceNow MCP — query/manage incidents, change requests, service catalog, knowledge articles, users, workflows and more from Claude Code.",
+  "author": {
+    "name": "Hunt Oil IT"
+  },
+  "license": "MIT",
+  "keywords": [
+    "servicenow",
+    "itsm",
+    "mcp",
+    "hunt-oil"
+  ]
+}

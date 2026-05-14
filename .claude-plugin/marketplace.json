@@ -1,0 +1,15 @@
+{
+  "name": "huntoil-servicenow",
+  "owner": {
+    "name": "Hunt Oil IT"
+  },
+  "plugins": [
+    {
+      "name": "servicenow",
+      "source": "./plugins/servicenow",
+      "description": "ServiceNow MCP for Claude Code — incidents, change requests, catalog, knowledge base, users, and more.",
+      "version": "0.1.0",
+      "category": "itsm"
+    }
+  ]
+}
